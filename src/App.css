@@ -3,3 +3,21 @@
   border: 1px solid;
   width : 200px;
 }
+
+.Header{
+   border : solid #eeeeee;
+   background-color: purple;
+   color: white;
+   margin-bottom: 10px;
+   text-align: center;
+   font-size: 45px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.Main{
+  display : flex;
+  
+}
+
